@@ -1,0 +1,30 @@
+{
+  "name": "csust_cems",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.1.0",
+    "axios": "^1.5.0",
+    "echarts": "^5.4.3",
+    "element-plus": "^2.3.9",
+    "js-cookie": "^3.0.5",
+    "mitt": "^3.0.1",
+    "vform3-builds": "^3.0.10",
+    "vue": "^3.3.4",
+    "vue-axios": "^3.5.2",
+    "vue-echarts": "^6.6.1",
+    "vue-router": "^4.2.4",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "unplugin-auto-import": "^0.16.6",
+    "unplugin-vue-components": "^0.25.1",
+    "vite": "^4.4.6"
+  }
+}
